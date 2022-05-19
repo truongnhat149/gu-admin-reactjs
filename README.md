@@ -1,1 +1,1 @@
-# gu-admin-reactjs
+# gu-admin-react
